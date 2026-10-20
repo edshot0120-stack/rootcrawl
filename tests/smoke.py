@@ -1,4 +1,4 @@
-"""Smoke tests on a generated folder of awkward files: run `python plugins/rootcrawl/tests/smoke.py`."""
+"""Smoke tests on a generated folder of awkward files: run `python tests/smoke.py`."""
 import os
 import shutil
 import subprocess

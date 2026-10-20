@@ -1,0 +1,16 @@
+{
+  "name": "rootcrawl",
+  "owner": {
+    "name": "edshot0120-stack"
+  },
+  "metadata": {
+    "description": "Root Crawl: the AI reads a short local report instead of your files, source code or web pages — and you see the tokens saved."
+  },
+  "plugins": [
+    {
+      "name": "rootcrawl",
+      "source": "./",
+      "description": "Read less, know more: profile data folders, map codebases and outline web pages locally — the AI reads a short report instead of files, source or HTML. Tracks the tokens saved."
+    }
+  ]
+}

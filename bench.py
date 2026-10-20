@@ -1,6 +1,6 @@
 """Root Crawl on real folders: time, report size and what reading the files would cost.
 
-    python plugins/rootcrawl/bench.py FOLDER [FOLDER …]   → a markdown table
+    python bench.py FOLDER [FOLDER …]   → a markdown table
 """
 import os
 import sys

@@ -1,10 +1,20 @@
 {
   "name": "rootcrawl",
-  "version": "0.3.2",
+  "version": "0.4.0",
   "description": "Read less, know more: profile data folders, map codebases and outline web pages locally — the AI reads a short report instead of files, source or HTML. Tracks the tokens saved.",
   "author": {
     "name": "edshot0120-stack"
   },
-  "homepage": "https://github.com/edshot0120-stack/seedgrown",
-  "license": "AGPL-3.0"
+  "homepage": "https://github.com/edshot0120-stack/rootcrawl",
+  "license": "AGPL-3.0",
+  "repository": "https://github.com/edshot0120-stack/rootcrawl",
+  "keywords": [
+    "tokens",
+    "context",
+    "data",
+    "csv",
+    "codebase",
+    "web",
+    "profiling"
+  ]
 }
